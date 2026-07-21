@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0042_000-X.yaml, hash: 'sha256:0cf4484e9d5e85d7edc38ea1e99fc59a9f73f6a42cc5dc8ce20c9d24542edf76'}
+  - {seq: 0, filename: KR6q0042_000-X.yaml, hash: 'sha256:219ee82a833599594b4fd25b60ec240e05daf878c58e1952da680331c8a12375'}
   - {seq: 1, filename: KR6q0042_001-X.yaml, hash: 'sha256:88627e078d4b21abf32fc319b2806394e7c92fe70a01a613b49ea91d67f0e326'}
   - {seq: 2, filename: KR6q0042_002-X.yaml, hash: 'sha256:a0f16c3122ee61e6b35c48dc4806d062fe88a39776c91a0023bffe0ae3536413'}
   - {seq: 3, filename: KR6q0042_003-X.yaml, hash: 'sha256:99d91fc98abb9300ea7e4ab0dffe4eff2d72c8cdf5d237bb5e0f3790b37e8aaa'}
@@ -36,7 +36,7 @@ assets:
   - {seq: 14, filename: KR6q0042_014-X.yaml, hash: 'sha256:35f8ef08290b5f24e5c3dc3b6128ee416027e56db3f848bad3a3b2f5a1dc25a1'}
   - {seq: 15, filename: KR6q0042_015-X.yaml, hash: 'sha256:e6076be55d6a76380350f05b6163e991bc17a47798a29f4c3a53bdff43d2f0da'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0042_000-X.markers.yaml, hash: 'sha256:c7c515190ed6d4a2294ceaeef8e896832771cfeb70bb1671a8173285480aeca3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0042_000-X.markers.yaml, hash: 'sha256:d83cec79866e168b620fe1c00e50f152573b97e92f44145b29c46e43669feffd'}
   - {seq: 1, role: markers, filename: assets/KR6q0042_001-X.markers.yaml, hash: 'sha256:de4e44bd782d614d51983292639d16d77a8eeef8858dd864120fad4d5d56f111'}
   - {seq: 2, role: markers, filename: assets/KR6q0042_002-X.markers.yaml, hash: 'sha256:3b5268f2811d771a027d79d5c31f0540a68bd1787dcc121446b20786e4c1510d'}
   - {seq: 3, role: markers, filename: assets/KR6q0042_003-X.markers.yaml, hash: 'sha256:957b65f32ece846ef9a602a7ca552f1bb765fffffa0530ae999ab340cace9b68'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0042_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1562-A 南宋元明僧寶傳序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0042_X_000-mulu-2
     span:
-    - front
+    - body
     - 542
     - 542
   label: No. 1562-B 南宋元明僧寶傳序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0042_X_000-mulu-3
     span:
-    - front
+    - body
     - 944
     - 944
   label: No. 1562-C 南宋元明僧寶傳序
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0042_X_000-mulu-4
     span:
-    - front
+    - body
     - 1532
     - 1532
   label: 南宋元明禪林僧寶傳目錄
@@ -1213,4 +1213,4 @@ table_of_contents:
   label: No. 1562-E 重刻僧寶傳記
   type: mulu
   level: 1
-hash: sha256:6e14b98e7d42b0c735932583fbd1b61640c0372ea0c93c7b3686b069a9da9bab
+hash: sha256:900a5f89b5adc71424909af5cac03862ec9bb35e03121b042875d1ddb91bc9c9
